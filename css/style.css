@@ -1,0 +1,8 @@
+#chatbot-iframe{
+    width:350px;
+    height:390px;
+}
+
+@media(max-width: 770px) {
+    #chatbot-iframe{position: relative; width:90%;}
+}
